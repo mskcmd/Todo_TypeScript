@@ -24,7 +24,7 @@ A visually stunning and feature-rich Todo application built with TypeScript, Rea
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/beautiful-typescript-todo-app.git
+   git clone https://github.com/mskcmd/Todo_TypeScript.git
    ```
 
 2. Navigate to the project directory:
